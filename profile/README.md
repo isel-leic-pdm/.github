@@ -20,7 +20,7 @@
 | Course Manager         | [Paulo Pereira](mailto:paulo.pereira@isel.pt) |
 
 #### Description
-From a software development perspective, the Android platform presents an interesting programming model that stems from ideas that are key in the learning path of a aspiring software engineer. Its evident practical applicability (Android has the largest mobile device market share, according to [GobalStats](https://gs.statcounter.com/os-market-share/mobile/worldwide)) make it a relevant environment for a 3rd year course unit about software engineering, encompassing the specific challenges of mobile devices.
+From a software development perspective, the Android platform presents an interesting programming model that stems from ideas that are key in the learning path of a aspiring software engineer. This, and its evident practical applicability, make Android a relevant environment for a 3rd year course unit about software engineering, encompassing the specific challenges of mobile devices.
 
 This course aims to prepare students for the development of applications targeting the Android platform. During classes, the Android programming model is studied and the consequences of its specificities on application design decisions are addressed. We study the tradeoffs involved in creating solutions that make effective use of the available computational resources with the intent to create correct, robust and maintainable software solutions.The presentation of the topics is accompanied by the implementation of selected applications during the classes (live coding sessions). 
 
