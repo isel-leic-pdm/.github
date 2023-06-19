@@ -1,8 +1,8 @@
 ## ISEL - Instituto Superior de Engenharia de Lisboa
 ### Mobile Devices Programming / Programação em Dispositivos Móveis
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
-[![pt](https://img.shields.io/badge/lang-pt-green.svg)](./README-PT.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/isel-leic-pdm)
+[![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/isel-leic-pdm/.github/blob/main/profile/README-PT.md)
 
 #### Institutional information
 * [Official course unit information](https://www.isel.pt/en/leic/mobile-devices-programming)
