@@ -19,7 +19,7 @@
 | Level, Year/Semester   | Undergraduate, 3rd year / 5th semester        |
 | Language               | English or Portuguese                         |
 | Available in           | Autumn-Winter Semester (Sep. - Feb.)          |
-| In-class contact hours | 15 weeks x 4.5 hours per week in class        |
+| In-class contact hours | 15 weeks x 4 hours per week in class        |
 | Course Manager         | [Paulo Pereira](mailto:paulo.pereira@isel.pt) |
 
 #### Description
